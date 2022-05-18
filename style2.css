@@ -265,15 +265,16 @@ marquee{
     font-family: 'Ubuntu', sans-serif;
 }
 .contact-box{
-
+  padding-top: 10px;
+   padding-left: 45px;
   box-shadow: 8px 10px 20px black inset;
   width: 600px;
 }
 form{
 
-    box-shadow: 5px 10px 20px black;
+    /* box-shadow: 5px 10px 20px black; */
   height: 550px;
-  width: 600px;
+  width: 600px;0px;
 }
 .input-field{
   width: 500px;
